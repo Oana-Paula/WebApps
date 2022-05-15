@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LibraryWebApi/bin/Debug
+/LibraryWebApi/.vs
+/LibraryWebApi/obj
+/LibraryWebApiUnitTests/bin/Debug/net6.0
+/LibraryWebApiUnitTests/obj
+/packages
+/.vs/LibraryWebApi/config
+/.vs/LibraryWebApi/FileContentIndex
+/.vs/ProjectEvaluation
+/.vs
+/LibraryWebApi/Database/Migrations
